@@ -5,3 +5,5 @@ This project delves into the classification of brain tumor Glioblastoma (GBM), a
 ### GBM Image
 
 ![Image](https://github.com/user-attachments/assets/312dfb94-3eae-4d47-ae8e-f3fd5270d96c)
+
+It has been demonstrated that convolutional neural networks (CNNs) are significantly more efficient and accurate compared to traditional diagnostic methods in the field of medicine. Conventional approaches, such as biopsies where cell tissues are extracted from a living body to determine the underlying cause or nature of a disease are both time-consuming and costly. By contrast, CNNs offer a faster, non-invasive, and more precise alternative, revolutionizing the way medical diagnostics are performed.
