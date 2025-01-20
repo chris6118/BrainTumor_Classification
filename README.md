@@ -55,4 +55,43 @@ This project model consists of two parts which are
 - Fully Connected Layer
 - Classification Layer
 
+![Image](https://github.com/user-attachments/assets/2941a308-38f9-475f-942b-07356217f319)
+
+### TESTING
+Input the image(Input Data) into the model.
+
+- Obtain predictions from the model
+- Compare the predictions with real results (unbias)
+- Calculate the evaluation metric(K Fold cross validations)
+- Visualize the model
+
+### RESULTS/EVALUATION
+
+Results:
+- Accuracy: 90%
+- Loss: 30%
+Model Performance (K-Fold Cross-Validation):
+
+Average Accuracy: 64%
+The model's performance indicates potential for improvement. Fine-tuning the hyperparameters could enhance accuracy and reduce loss, leading to better overall results.
+
+### DISCUSSION/CONCLUSION
+This MSc project successfully executed the task of classifying brain tumors using a CNN-based approach, demonstrating the potential for automating brain tumor diagnosis and classification. This innovation offers significant benefits for improving efficiency in the healthcare sector. Additionally, the project underscored the ethical dimensions of brain tumor management, advocating for equitable access to healthcare services and compassionate care for all patients, regardless of their socioeconomic status.
+
+The experimental results validate that CNNs are highly effective for photo imagery classification. However, the model's performance could be further enhanced by addressing key limitations, such as the availability of larger and more diverse datasets.
+
+Moving forward, efforts will focus on improving the model's performance through the acquisition of diverse datasets, which will contribute to increased accuracy. By doing so, this research aims to have a meaningful impact on improving healthcare outcomes and enhancing patients' quality of life.
+
+### REFERENCES
+
+1. Banan, R., & Hartmann, C. (2017). The new WHO 2016 classification of brain tumors—what neurosurgeons need to know. Acta Neurochir, 159(3), 403–418. https://doi.org/10.1007/s00701-016-3062-34
+
+2. Barboriak, D. (2015). Data from RIDER_NEURO_MRI. Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.VOSN3HN1
+
+3. Bruno, M. A., Walker, E. A., & Abujudeh, H. H. (2015). Understanding and confronting our mistakes: The epidemiology of error in radiology and strategies for error reduction. Radiographics, 35(6), 1668–1676. https://doi.org/10.1148/rg.2015150023
+
+4. Wais, M. S. (2023). Does ethnicity affect brain tumor survival? Healthcare in Europe. Accessed June 23, 2023. https://healthcare-in-europe.com/en/news/ethnicity-brain-tumour-survival.html
+
+
+
 
