@@ -88,6 +88,9 @@ Model Performance (K-Fold Cross-Validation):
 Average Accuracy: 64%
 The model's performance indicates potential for improvement. Fine-tuning the hyperparameters could enhance accuracy and reduce loss, leading to better overall results.
 
+![Image](https://github.com/user-attachments/assets/e0ab75b2-624e-47e3-80f3-4220d6858a6f)
+#### Model Evaluation using K-Fold Cross-Validation
+
 ### DISCUSSION/CONCLUSION
 This MSc project successfully executed the task of classifying brain tumors using a CNN-based approach, demonstrating the potential for automating brain tumor diagnosis and classification. This innovation offers significant benefits for improving efficiency in the healthcare sector. Additionally, the project underscored the ethical dimensions of brain tumor management, advocating for equitable access to healthcare services and compassionate care for all patients, regardless of their socioeconomic status.
 
