@@ -78,6 +78,7 @@ Input the image(Input Data) into the model.
 #### Model Training Performance: High Accuracy and Low Loss
 
 ### RESULTS/EVALUATION
+To assess the performance of the project model, I employed a standard evaluation technique known as K-fold cross-validation. The dataset was divided into K subsets (or folds), with K-1 folds used for training and the remaining fold used for validation. This process was repeated 5 times to ensure robust evaluation. The average values for Accuracy, Precision, Recall, and F1 Score were calculated and displayed to provide a comprehensive assessment of the model's performance.
 
 Results:
 - Accuracy: 90%
