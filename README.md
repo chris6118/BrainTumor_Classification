@@ -56,6 +56,9 @@ This project model consists of two parts which are
 - Fully Connected Layer
 - Classification Layer
 
+![Image](https://github.com/user-attachments/assets/e8fb8177-014b-47c1-a7af-d8c9df87b6bb)
+#### Fully connected layers consists of neuron or nodes.
+
 ![Image](https://github.com/user-attachments/assets/2941a308-38f9-475f-942b-07356217f319)
 ### Combined Layers
 
