@@ -3,8 +3,9 @@
 ### ABSTRACT
 This project delves into the classification of brain tumor Glioblastoma (GBM), a highly aggressive and malignant form of brain cancer, using an advanced deep learning approach. By analyzing medical imagery, such as MRI scans, this research aims to aid in the early detection and accurate classification of GBM, a critical step in improving treatment outcomes and patient care. Leveraging cutting-edge neural network architectures, this work bridges the fields of computer science, artificial intelligence, and medicine, specifically neurology and oncology. It also highlights the potential of AI to transform medical diagnostics by enhancing precision, reducing human error, and enabling faster decision-making in critical healthcare scenarios. 
 
-### GBM Image
+
 ![Image](https://github.com/user-attachments/assets/312dfb94-3eae-4d47-ae8e-f3fd5270d96c)
+### GBM Image
 
 It has been demonstrated that convolutional neural networks (CNNs) are significantly more efficient and accurate compared to traditional diagnostic methods in the field of medicine. Conventional approaches, such as biopsies where cell tissues are extracted from a living body to determine the underlying cause or nature of a disease are both time-consuming and costly. By contrast, CNNs offer a faster, non-invasive, and more precise alternative, revolutionizing the way medical diagnostics are performed.
 
@@ -56,6 +57,7 @@ This project model consists of two parts which are
 - Classification Layer
 
 ![Image](https://github.com/user-attachments/assets/2941a308-38f9-475f-942b-07356217f319)
+### Combined Layers
 
 ### TESTING
 Input the image(Input Data) into the model.
@@ -64,6 +66,16 @@ Input the image(Input Data) into the model.
 - Compare the predictions with real results (unbias)
 - Calculate the evaluation metric(K Fold cross validations)
 - Visualize the model
+
+![Image](https://github.com/user-attachments/assets/7499a6f2-8b56-45f2-a77a-dee27f0c3a69)
+#### Model Training with Epoch of 8.
+                                             
+![Image](https://github.com/user-attachments/assets/bc95ec6b-e579-43d2-938b-f36e0d008f0e)
+#### Model Training Performance: Low Accuracy and High Loss 
+
+
+![Image](https://github.com/user-attachments/assets/8396b6ef-d38e-41bd-a3df-2e5c59871ac5)
+#### Model Training Performance: High Accuracy and Low Loss
 
 ### RESULTS/EVALUATION
 
