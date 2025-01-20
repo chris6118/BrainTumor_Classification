@@ -56,7 +56,7 @@ This project model consists of two parts which are
 - Fully Connected Layer
 - Classification Layer
 
-![Image](https://github.com/user-attachments/assets/e8fb8177-014b-47c1-a7af-d8c9df87b6bb)
+![Image](https://github.com/user-attachments/assets/b16ed36c-d6ce-47e2-b9de-34a4a7e2d9fe)
 #### Fully connected layers consists of neuron or nodes.
 
 ![Image](https://github.com/user-attachments/assets/2941a308-38f9-475f-942b-07356217f319)
@@ -75,7 +75,6 @@ Input the image(Input Data) into the model.
                                              
 ![Image](https://github.com/user-attachments/assets/bc95ec6b-e579-43d2-938b-f36e0d008f0e)
 #### Model Training Performance: Low Accuracy and High Loss 
-
 
 ![Image](https://github.com/user-attachments/assets/8396b6ef-d38e-41bd-a3df-2e5c59871ac5)
 #### Model Training Performance: High Accuracy and Low Loss
